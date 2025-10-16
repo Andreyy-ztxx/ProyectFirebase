@@ -1,0 +1,12 @@
+# secretos y entorno
+.env
+serviceAccountKey.json
+*.b64.txt
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# editor
+.vscode/
